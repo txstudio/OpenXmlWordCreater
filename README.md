@@ -16,6 +16,12 @@
 
 > ... ToKeyValues(object item) ...
 
+## 在 Word 檔案設定書籤
+
+![](https://raw.githubusercontent.com/txstudio/OpenXmlWordCreater/master/images/add-bookmark-location.gif)
+
+![](https://raw.githubusercontent.com/txstudio/OpenXmlWordCreater/master/images/registration-from-in-bookmark.gif)
+
 ## 注意事項
 
 在不調整原始程式碼的情況下，會有下列限制
