@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenXmlWordCreater", "OpenXmlWordCreater\OpenXmlWordCreater.csproj", "{D6344620-1DA5-422B-89BA-D66E1B70D8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationFormCreater", "RegistrationFormCreater\RegistrationFormCreater.csproj", "{0CF417E3-3692-4CB3-9C2B-CA1295CB702C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6344620-1DA5-422B-89BA-D66E1B70D8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6344620-1DA5-422B-89BA-D66E1B70D8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6344620-1DA5-422B-89BA-D66E1B70D8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6344620-1DA5-422B-89BA-D66E1B70D8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF417E3-3692-4CB3-9C2B-CA1295CB702C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF417E3-3692-4CB3-9C2B-CA1295CB702C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF417E3-3692-4CB3-9C2B-CA1295CB702C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF417E3-3692-4CB3-9C2B-CA1295CB702C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1954CD84-F625-43D9-9A69-171E735E2288}
+	EndGlobalSection
+EndGlobal
